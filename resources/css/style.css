@@ -3,4 +3,34 @@ html{
     background-color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
+    font-size: 16px;
+}
+header{
+    font-size: 3.25em;
+}
+
+a:visited{
+    color: aquamarine;
+}
+
+.download{
+    color: aquamarine;
+    font-size: 1em;
+}
+
+.second{
+    font-size: 2.62em;
+}
+
+.text{
+    font-size: 1.31em;
+    color: gray;
+}
+
+.phone{
+    margin-top: 3em;
+}
+
+footer{
+    text-align: right;
 }
